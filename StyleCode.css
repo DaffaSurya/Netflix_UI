@@ -1,0 +1,49 @@
+*,
+html , body {
+    padding: 0;
+    margin: 0;
+}
+
+.ul-navbar {
+  width: 10%;
+  height: 5%;
+}
+
+.ul-content {
+    display: flex;
+    justify-content:flex-start;
+    font-weight: 700;
+}
+
+.div-content {
+  background-color: black;
+  margin-top: 2%;
+  color: white;
+  font-size: x-large;
+  font-weight: 500;
+  font-family: Arial, Helvetica, sans-serif; 
+}
+
+.ul-pilihan {
+  width: 150px;
+  height: 200px;
+  border-radius: 5%;
+  margin-left: 15px;
+  
+ 
+}
+
+.input-navbar {
+   padding: 8px;
+   margin-left: 10px;
+   background-color: #222;
+   border-radius: 7px;
+   color: white;
+}
+
+.ul2-pilihan {
+  width: 150px;
+  height: 200px;
+  border-radius: 5%;
+  margin-left: 15px;
+}
